@@ -1,4 +1,4 @@
-# foldingdiff - Diffusion model for protein backbone generation
+# Diffusion model for protein backbone generation
 
 [![Code style: black](https://img.shields.io/badge/code%20style-black-000000.svg)](https://github.com/psf/black) ![PyTorch Lightning](https://img.shields.io/badge/pytorch-lightning-blue.svg?logo=PyTorch%20Lightning)
 
